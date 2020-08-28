@@ -1,0 +1,42 @@
+/* Some elements are modified from w3schools.com */
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: "Lucida Console", Monaco, monospace;
+    color: greenyellow;
+    margin-left: 20px;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+h3 {
+    font-family: "Courier New", Courier, monospace;
+    color: greenyellow;
+    text-align: center;
+}
+
+a:link {
+    font-family: "Courier New", Courier, monospace;
+    text-decoration: none;
+    color: greenyellow;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: lightgreen;
+}
+
+p {
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+}
